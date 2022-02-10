@@ -13,4 +13,8 @@ Since the references are too many, we omit the citation of these links. While th
 
 [A Generalization of Transformer Networks to Graphs](https://arxiv.org/abs/2012.09699)
 
-# 
+# Signal Decomposition and Modular Learning.pptx
+This is the updated proposal about signal decomposition. These days I emailed to some authors of related works and discussed with some of them, getting many new enlightening opinions and added to the new slides.
+
+# DeBERTa.pptx & ∞-former.pptx
+These are two individual papers that interest me. The first proposed a GAN-style pretraining method that fully utilize training data, and some ideas about embedding signal disentangling are promising for our proposal. The second is about signal continurization which is beneficial when processing extremely long input data, sacrificing resolution for computational efficency.
