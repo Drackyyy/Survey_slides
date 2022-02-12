@@ -18,3 +18,6 @@ This is the updated proposal about signal decomposition. These days I emailed to
 
 ## DeBERTa.pptx & ∞-former.pptx
 These are two individual papers that interest me. The first proposed a GAN-style pretraining method that fully utilize training data, and some ideas about embedding signal disentangling are promising for our proposal. The second is about signal continurization which is beneficial when processing extremely long input data, sacrificing resolution for computational efficency.
+
+## Pretraining with dictionaries.pptx
+This is another idea that I recently came up with, while it seems no other work can be cited as reference. I would like to use dictionaries, a well-structured weakly supervising data to improve pretraining efficiency. This is similar to how we human learn a new language: to learn a new word, see its definition, syn/ant ( for better spatial representation ) and example sentences, while current pretraining methods only utilize example sentences. A related work is ConceptNet, a common sense KG aiming at improving embedding quality, while they are derived from different motivations.
